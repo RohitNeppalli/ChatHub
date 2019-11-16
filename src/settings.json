@@ -1,0 +1,38 @@
+{
+    "apps": [
+        [
+            "Discord",
+            "https://discordapp.com/activity"
+        ],
+        [
+            "Groupme",
+            "https://web.groupme.com/signin"
+        ],
+        [
+            "Whatsapp",
+            "https://web.whatsapp.com/"
+        ],
+        [
+            "Gmail",
+            "https://gmail.com/"
+        ],
+        [
+            "Todoist",
+            "https://todoist.com/"
+        ],
+        [
+            "Github",
+            "https://github.com/"
+        ],
+        [
+            "Slack",
+            "https://slack.com/signin"
+        ],
+        [
+            "Skype",
+            "https://www.skype.com/en/"
+        ]
+    ],
+    "max_duration": 1800000,
+    "keep_in_background": true
+}
